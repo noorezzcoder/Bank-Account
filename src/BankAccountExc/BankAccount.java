@@ -12,6 +12,10 @@ public class BankAccount {
 	public BankAccount(double initialBalance) {
 		this.balance = initialBalance;
 	}
+    //Commit by adding public method get passowrd
+	public static getpassword(string pass) {
+		
+	}
    //set password
 	public void setpasswoerd(String passowerd) {
 		this.passowerd = passowerd;
