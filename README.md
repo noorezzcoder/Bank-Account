@@ -15,7 +15,7 @@ Recording a simple transaction history using a string variable
 
 This example highlights how encapsulation helps in building robust, secure, and maintainable code by keeping internal details hidden and exposing only necessary functionality.
 
-Required Tools:
+# Required Tools:
 To run or modify this project, you will need the following tools installed on your system:
 
 Java Development Kit (JDK) – Version 8 or higher
@@ -30,5 +30,31 @@ Eclipse
 NetBeans
 
 Command Line or Terminal (optional) – for compiling and running Java files manually
+
+# Setup GitHub
+Follow these steps to clone and run the project locally:
+
+1. Clone the repository
+
+git clone https://github.com/your-username/Bank-Account.git
+
+2. Navigate into the project folder
+    cd Bank-Account
+
+3. Open the project in your favorite IDE
+You can open the folder in:
+
+IntelliJ IDEA
+
+Eclipse
+
+NetBeans
+
+Or use a simple text editor (like VS Code) if you prefer.
+
+4. Compile and run the project
+If you're using the command line:
+javac BankAccount.java
+java BankAccount
 
 
