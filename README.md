@@ -15,4 +15,20 @@ Recording a simple transaction history using a string variable
 
 This example highlights how encapsulation helps in building robust, secure, and maintainable code by keeping internal details hidden and exposing only necessary functionality.
 
+Required Tools:
+To run or modify this project, you will need the following tools installed on your system:
+
+Java Development Kit (JDK) – Version 8 or higher
+Download JDK
+
+IDE (Integrated Development Environment) – such as:
+
+IntelliJ IDEA
+
+Eclipse
+
+NetBeans
+
+Command Line or Terminal (optional) – for compiling and running Java files manually
+
 
